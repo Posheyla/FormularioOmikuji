@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-color: pink;
+}
+
+.navbar {
+	background-color: navy;
+}
+
+h1 {
+	color: purple;
+}
+
+main>.container {
+	background-color: white;
+}
